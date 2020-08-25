@@ -1,1 +1,7 @@
+/.metadata/
+*.jar
 linkdn-learning-customer-support/.mvn/wrapper/maven-wrapper.jar
+linkdn-learning-customer-support/mvnw
+*.cmd
+linkdn-learning-customer-support/.mvn/wrapper/maven-wrapper.jar
+linkdn-learning-customer-support/.mvn/wrapper/MavenWrapperDownloader.java
